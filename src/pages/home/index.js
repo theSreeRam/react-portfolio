@@ -4,6 +4,9 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
+import { About } from "../about";
+import { Portfolio } from "../portfolio";
+import  { ContactUs } from "../contact";
 
 export const Home = () => {
   return (
@@ -20,7 +23,7 @@ export const Home = () => {
             style={{ backgroundImage: `url(${introdata.your_img_url})` }}
           ></div>
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
-            <div className="align-self-center ">
+            <div className="align-self-center" style={{ marginLeft: "-20%" }}>
               <div className="intro mx-auto">
                 <h2 className="mb-1x">{introdata.title}</h2>
                 <h1 className="fluidz-48 mb-1x">
@@ -62,6 +65,16 @@ export const Home = () => {
           </div>
         </div>
       </section>
+      <section id="about">
+        <About />
+      </section>
+      <section id="portfolio">
+        <Portfolio />
+      </section>
+      <section id="contact">
+        <ContactUs />
+      </section>
+      <br />
     </HelmetProvider>
   );
 };

@@ -67,7 +67,7 @@ export const ContactUs = () => {
 
   return (
     <HelmetProvider>
-      <Container>
+      <Container style={{ marginBottom: "10px" }}>
         <Helmet>
           <meta charSet="utf-8" />
           <title>{meta.title} | Contact</title>

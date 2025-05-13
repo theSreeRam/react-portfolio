@@ -139,12 +139,12 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "panigrahi.sreeram@gmail.com",
-    YOUR_FONE: "(+91)7978426120",
+    YOUR_FONE: "(+91) 7978426120",
     description: "I am available for freelance or full-time positions. Contact me and let's talk.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_9gm1wkk",
-    YOUR_TEMPLATE_ID: "template_s20pb6y",
+    YOUR_TEMPLATE_ID: "template_eh9zsjq",
     YOUR_USER_ID: "A1Zc_SocQa9ABBzAJ",
 };
 
