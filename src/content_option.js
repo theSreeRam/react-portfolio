@@ -75,65 +75,49 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://raw.githubusercontent.com/theSreeRam/Coding-and-Modulation-GUI/refs/heads/main/images/1.png",
+        description: "Coding And Modulation project for Digital Communication.",
+        link: "https://github.com/theSreeRam/Coding-and-Modulation-GUI/tree/main",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://raw.githubusercontent.com/theSreeRam/wdb_2020_projects/refs/heads/master/images/pricingPanel.png",
+        description: "Pricing Panel - A simple pricing panel for a website.",
+        link: "https://thesreeram.github.io/pricing_panel/"
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://raw.githubusercontent.com/theSreeRam/intensityApp/refs/heads/master/images/potassium-permanganate-250x250.jpg",
+        description: "Intensity App - An industry standard python desktop app for chemical spectroscopy.",
+        link: "https://github.com/theSreeRam/intensityApp",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://iili.io/3Ssm5xt.png",
+        description: "A clone of popular site Museum of Candy, from udemy course",
+        link: "https://thesreeram.github.io/museum_of_candy/",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://iili.io/3SLRkeR.png",
+        description: "Snake Game - This game is implementing Arrays , OOP principles and Game loop for creating the game.",
+        link: "https://github.com/theSreeRam/DSA_Projects",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://iili.io/3SLRvbp.md.png",
+        description: "Splitwise Algorithm - A simple splitwise algorithm using HTML, CSS and JS.",
+        link: "https://github.com/theSreeRam/DSA_Projects",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://iili.io/3SLRSzN.png",
+        description: "Fruit Collector - This game is similar to Mario and uses Physics arcade engine of Phaser 3 framework",
+        link: "https://github.com/theSreeRam/DSA_Projects",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://iili.io/3SLMGix.png",
+        description: "Todo App - Using react and local storage to create a simple todo app.",
+        link: "https://thesreeram.github.io/todos-react/",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://iili.io/3SLeFKg.png",
+        description: "Covid Fighter - This game is implementing Arrays , Gameloop and 2D collision algorithm in order to run the game and lead the player through the game.",
+        link: "https://github.com/theSreeRam/DSA_Projects/",
     },
 ];
 
