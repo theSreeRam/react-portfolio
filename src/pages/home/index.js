@@ -7,6 +7,7 @@ import { Link } from "react-router-dom";
 import { About } from "../about";
 import { Portfolio } from "../portfolio";
 import  { ContactUs } from "../contact";
+import { ResumePage } from "../resume/ResumePage";
 
 export const Home = () => {
   return (
@@ -23,7 +24,7 @@ export const Home = () => {
             style={{ backgroundImage: `url(${introdata.your_img_url})` }}
           ></div>
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
-            <div className="align-self-center" style={{ marginLeft: "-20%" }}>
+            <div className="align-self-center">
               <div className="intro mx-auto">
                 <h2 className="mb-1x">{introdata.title}</h2>
                 <h1 className="fluidz-48 mb-1x">
@@ -67,6 +68,9 @@ export const Home = () => {
       </section>
       <section id="about">
         <About />
+      </section>
+      <section id="resume">
+        <ResumePage />
       </section>
       <section id="portfolio">
         <Portfolio />

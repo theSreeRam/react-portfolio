@@ -8,7 +8,7 @@ const introdata = {
     title: "I’m Sreeram Panigrahi",
     animated: {
         first: "I love Technology",
-        second: "I develop fullstack",
+        second: "Fullstack Developer",
         third: "Vibe Coding lately",
     },
     description: "SDE 2 @ Goldman Sachs | Ex-Amazon, Swiggy",
@@ -51,7 +51,7 @@ const skills = [{
         value: 80,
     },
     {
-        name: "Typescript/React + HTML/CSS/Bootstrap",
+        name: "Typescript/React",
         value: 60,
     },
     {

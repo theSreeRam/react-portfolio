@@ -1,0 +1,33 @@
+/* src/pages/resume/ResumePage.css or a relevant shared CSS file */
+
+.Resume-page-header { /* Optional: if you want specific styling for this page's header */
+    /* Add any specific header styles here */
+  }
+  
+  .resume-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* If you have other elements like download buttons */
+  }
+  
+  .resume-iframe {
+    width: 100%; /* Or a specific width like 800px */
+    height: 100vh; /* Makes the iframe take the full viewport height */
+    min-height: 700px; /* Minimum height */
+    border: 1px solid #ccc; /* Optional border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  }
+  
+  .resume-embed {
+    width: 100%;
+    /* height: 800px; /* Set height as needed */
+    min-height: 700px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for download/view links if you use Option 3 */
+  /* .btn-primary, .btn-secondary { ... } */ /* You might already have Bootstrap styles */
+  /* .ml-2 { margin-left: 0.5rem; } */
