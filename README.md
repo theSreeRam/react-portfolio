@@ -1,10 +1,10 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+A simple portfolio template for Sreeram Panigrahi built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://thesreeram.github.io/react-portfolio/)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+[![react portfoiio](src/assets/images/site_home.png)](https://thesreeram.github.io/react-portfolio/)
 
 ### Features
 
@@ -18,7 +18,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/theSreeRam/react-portfolio.git</pre>
  
 Install required dependencies
 
