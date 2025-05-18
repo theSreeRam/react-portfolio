@@ -13,7 +13,7 @@ const introdata = {
     },
     description: "SDE 2 @ Goldman Sachs | Ex-Amazon, Swiggy",
     description2: "Fullstack Developer based in Hyderabad, India",
-    your_img_url: "https://iili.io/38SFjiF.jpg",
+    your_img_url: "https://raw.githubusercontent.com/theSreeRam/react-portfolio/refs/heads/main/public/home_screen.jpg",
 };
 
 const dataabout = {
@@ -90,32 +90,32 @@ const dataportfolio = [{
         link: "https://github.com/theSreeRam/intensityApp",
     },
     {
-        img: "https://iili.io/3Ssm5xt.png",
+        img: "https://raw.githubusercontent.com/theSreeRam/react-portfolio/refs/heads/main/public/museum_of_candy.png",
         description: "A clone of popular site Museum of Candy, from udemy course",
         link: "https://thesreeram.github.io/museum_of_candy/",
     },
     {
-        img: "https://iili.io/3SLRkeR.png",
+        img: "https://raw.githubusercontent.com/theSreeRam/react-portfolio/refs/heads/main/public/snake_game.png",
         description: "Snake Game - This game is implementing Arrays , OOP principles and Game loop for creating the game.",
         link: "https://github.com/theSreeRam/DSA_Projects",
     },
     {
-        img: "https://iili.io/3SLRvbp.md.png",
+        img: "https://raw.githubusercontent.com/theSreeRam/react-portfolio/refs/heads/main/public/splitwise_algo.png",
         description: "Splitwise Algorithm - A simple splitwise algorithm using HTML, CSS and JS.",
         link: "https://github.com/theSreeRam/DSA_Projects",
     },
     {
-        img: "https://iili.io/3SLRSzN.png",
+        img: "https://raw.githubusercontent.com/theSreeRam/react-portfolio/refs/heads/main/public/fruit_collector.png",
         description: "Fruit Collector - This game is similar to Mario and uses Physics arcade engine of Phaser 3 framework",
         link: "https://github.com/theSreeRam/DSA_Projects",
     },
     {
-        img: "https://iili.io/3SLMGix.png",
+        img: "https://raw.githubusercontent.com/theSreeRam/react-portfolio/refs/heads/main/public/todo-list.png",
         description: "Todo App - Using react and local storage to create a simple todo app.",
         link: "https://thesreeram.github.io/todos-react/",
     },
     {
-        img: "https://iili.io/3SLeFKg.png",
+        img: "https://raw.githubusercontent.com/theSreeRam/react-portfolio/refs/heads/main/public/covid-fighter.png",
         description: "Covid Fighter - This game is implementing Arrays , Gameloop and 2D collision algorithm in order to run the game and lead the player through the game.",
         link: "https://github.com/theSreeRam/DSA_Projects/",
     },
